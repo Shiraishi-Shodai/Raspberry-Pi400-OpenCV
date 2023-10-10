@@ -2,7 +2,8 @@
 
 ## 1 OpenCV v4.6.0をインストールするまでの流れ
 
-### 1-1 ```sudo apt install -y libatlas-base-dev```
+### 1-1
+```sudo apt install -y libatlas-base-dev```
 
 管理者権限でlibatlas-base-devパッケージをインストールし、行列やベクトルの計算を高速にするOpenCVを使用する際に必要となる
 
