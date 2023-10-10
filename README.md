@@ -13,8 +13,9 @@ pip install numpy --upgrade
 ```
 
 ### 1-3  wheelファイルを取得
-
+```
 wget https://www.piwheels.org/simple/opencv-python/opencv_python-4.6.0.66-cp37-cp37m-linux_armv7l.whl#sha256=70e5f777be8b2027e6667f840e64db82255461085eb7b81b5052416925ed3038
+```
 
 ### 1-3 wheelファイルをインストール
 
